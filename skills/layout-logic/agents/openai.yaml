@@ -1,0 +1,6 @@
+interface:
+  display_name: "版式逻辑 · Layout Logic"
+  short_description: "把内容、网格、视觉层级与有目的的小巧思组织为可阅读、可复用的版式"
+  default_prompt: "使用 $layout-logic，根据我的内容与输出尺寸建立版式，选择合适的小巧思并检查成品可读性。"
+policy:
+  allow_implicit_invocation: true
